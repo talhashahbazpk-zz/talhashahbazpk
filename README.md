@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Talha Shahbaz (Software Engineer (Asp.net))
+### Hi there 👋 I'm Talha Shahbaz (Software Engineer Asp.net)
 
 <ul dir="auto">
 <li>🔭 I’m currently working on Asp.Net (MVC), Javascript, jQuery, SQL and much more.</li>
@@ -15,7 +15,6 @@
 <li><a href="https://github.com/talhashahbazpk"><strong>Github</strong></a></li>
 <li><a href="https://linkedin.com/in/talhashahbazpk"><strong>LinkedIn</strong></a></li>
 <li><a href="https://twitter.com/TalhaShahbazPK"><strong>Twitter</strong></a></li>
-<li><a href="mailto:talhashahbazpk@gmail.com"><strong>Email</strong></a></li>
 </ul>
 
-I'd love to branch out and create more useful code. If you have any suggestions or comments, feel free to email me at talhashahbazpk@gmail.com.
+If you have any suggestions or comments, feel free to <a href="mailto:talhashahbazpk@gmail.com"><strong>contact</strong></a> me.
