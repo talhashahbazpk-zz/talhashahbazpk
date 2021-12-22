@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Talha Shahbaz (Software Engineer (Asp.net))
 
-<!--
-**talhashahbazpk/talhashahbazpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• 🔭 I’m currently working on Asp.Net (MVC), Javascript, jQuery, SQL and much more.
+• 🌱 I’m currently learning Asp.Net Core
+• 💬 Ask me about Asp.net (MVC), Javascript, jQuery and SQL
+• 📫 How to reach me: mailto:talhashahbazpk@gmail.com
+• ⚡ Fun fact: Enjoying My Life 😎
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+• https://stackoverflow.com/users/11962337/talhashahbazpk
+• https://github.com/talhashahbazpk
+I'd love to branch out and create more useful code. If you have any suggestions or comments, feel free to email me at mailto:talhashahbazpk@gmail.com.
